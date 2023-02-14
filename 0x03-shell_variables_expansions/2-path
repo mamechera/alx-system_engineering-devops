@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=touch /action
+export PATH='echo /action'
