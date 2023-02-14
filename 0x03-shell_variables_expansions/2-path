@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=touch /action
+PATH='echo /action'
